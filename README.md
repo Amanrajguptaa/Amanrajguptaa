@@ -5,9 +5,9 @@
 
 - 📗 I’m currently learning **Development and Cloud**
 
-- 👨‍💻 All of my projects are available at [amandevportfolio.vercel.app](amandevportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://amandevportfolio.vercel.app/](https://amandevportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [amanrajgupta.hashnode.dev](amanrajgupta.hashnode.dev)
+- 📝 I regularly write articles on [https://amanrajgupta.hashnode.dev/](https://amanrajgupta.hashnode.dev/)
 
 - 📫 How to reach me **rajaman9355@gmail.com**
 
