@@ -53,14 +53,6 @@
 
 ---
 
-## Badges ⭐⭐⭐
-
-## GSSOC(24) 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://drive.google.com/file/d/1kTIngLoVfKyyMqeU5S8HDNwBz-ejgnsT/view?usp=sharing" width="300px" height="400px" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-</div>
-<br>
 
 
 ### 📈 Contribution Graph:
