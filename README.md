@@ -2,7 +2,7 @@
 <h3 align="center"> Software Developer | Technology Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+software+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Passionate+Tech+Enthusiast" />
 </p>
 
 ---
