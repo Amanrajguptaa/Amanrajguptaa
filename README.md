@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aman </h1>
 <h3 align="center"> Software Developer | Technology Enthusiast | Open Source Contributor</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Passionate+Technology+Enthusiast" />
 </p>
 
