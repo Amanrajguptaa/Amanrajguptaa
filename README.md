@@ -11,7 +11,7 @@
 - 📘 I'm currently pursuing Bachelors in **Data Science & Artificial Intelligence** at **IIT Guwahati**  
 - 👨‍💻  I’m an **Web Developer** actively working on various projects
 - 🛠️  Love programming and creating **scalable software products**  
-- 🔥 Exploring the intersection of **AI**, ** Cloud**, and **Development**
+- 🔥 Exploring the intersection of **AI**, **Cloud**, and **Development**
 - 🌍 Passionate about learning **Technology**
 ---
 
