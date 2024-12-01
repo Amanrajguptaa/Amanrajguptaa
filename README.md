@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 
-<table border="0">
+<table border="0" style="border: 2px solid #36BCF7;>
   <tr>
     <td>
       <ul>
