@@ -8,11 +8,24 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📘 I'm currently pursuing Bachelors in **Data Science & Artificial Intelligence** at **IIT Guwahati**  
-- 👨‍💻  I’m an **Web Developer** actively working on various projects
-- 🛠️  Love programming and creating **scalable software products**  
-- 🔥 Exploring the intersection of **AI**, **Cloud**, and **Development**
-- 🌍 Passionate about learning **Technology**
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>📘 I'm currently pursuing Bachelors in <strong>Data Science & Artificial Intelligence</strong> at <strong>IIT Guwahati</strong></li>
+        <li>👨‍💻 I’m a <strong>Web Developer</strong> actively working on various projects</li>
+        <li>🛠️ Love programming and creating <strong>scalable software products</strong></li>
+        <li>🔥 Exploring the intersection of <strong>AI</strong>, <strong>Cloud</strong>, and <strong>Development</strong></li>
+        <li>🌍 Passionate about learning <strong>Technology</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" alt="About Me Gif" width="300" height="200" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🛠️ Tech Stack:
@@ -33,7 +46,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Open Source & Projects:
+### 🚀Projects:
 
 - 📂 Actively contributing to **open-source projects**  
 - 🛠️ Working on **AI-driven applications** and **data science models**  
@@ -53,8 +66,6 @@
 
 ---
 
-
-
 ### 📈 Contribution Graph:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanrajguptaa&theme=github-compact)
@@ -62,4 +73,4 @@
 ---
 
 ### ⚡ Fun Fact:
-- I love coding like Ninja 🥷and debugging like Sherlock holmes 🕵️
+- I love coding like Ninja 🥷and debugging like Sherlock Holmes 🕵️
