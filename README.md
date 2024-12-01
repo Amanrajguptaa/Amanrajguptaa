@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" alt="About Me Gif" width="300" height="200" />
+      <img src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" alt="About Me Gif"  height="200" />
     </td>
   </tr>
 </table>
