@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats:
 
-![Jivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajguptaa&layout=compact&theme=radical)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajguptaa&layout=compact&theme=radical)
 
 ---
 
