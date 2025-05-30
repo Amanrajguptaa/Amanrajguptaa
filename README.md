@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Website+Developer;Passionate+Technology+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="Banner Gif" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me:
