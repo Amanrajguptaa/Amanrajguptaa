@@ -2,7 +2,7 @@
 <h3 align="center"> Software Developer | Technology Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Website+Developer;Passionate+Technology+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FFE02&lines=Full+Stack+Website+Developer;Passionate+Technology+Enthusiast" />
 </p>
 
 
@@ -72,14 +72,14 @@
 ### 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=chartreuse-dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
 </div>
 ---
 
 ### 📈 Contribution Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanrajguptaa&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanrajguptaa&theme=chartreuse-dark)
 
 ---
 
