@@ -74,7 +74,7 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=chartreuse-dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=Amanrajguptaa&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
 </div>
 
 ---
