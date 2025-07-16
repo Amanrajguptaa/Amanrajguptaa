@@ -2,7 +2,7 @@
 <h3 align="center"> Software Developer | Technology Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7FFE02&lines=Full+Stack+Website+Developer;Passionate+Technology+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FFE02&lines=Tech+Intern+at+Physics+Wallah+👨‍💻;Full+Stack+Website+Developer+🫡;Passionate+Technology+Enthusiast+🔥" />
 </p>
 
 
@@ -53,12 +53,13 @@
 
 ---
 
-### 🚀 Projects:
+### 🚀 Achievements:
 
-- 📂 Actively contributing to **open-source projects**  
-- 🛠️ Working on **AI-driven applications** and **data science models**  
-- 🌟 Check out my repositories to see the **projects I've worked on**!  
-- 💡 Always looking to **collaborate** on exciting ideas and projects!
+- 👨‍💻 Backend Tech Intern at Physics Wallah (Jun 2025 - Present)
+- 💼 Frontend Tech Intern at Physics Wallah (Dec 2024 - Jun 2025)
+- 🥇 D2C Brand Building Hackathon Winner (1st Runner-Up)
+- 🏆 TechSangam Hackathon Winner (Top 10)
+- ✨ Currently Building Scalable Applications
 
 ---
 
@@ -75,6 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=chartreuse-dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
   <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
 </div>
+
+---
 
 ### 📈 Contribution Graph:
 
