@@ -30,7 +30,7 @@
 ---
 
 ### 🛠️ Tools & Technologies:
-
+<div style="display: flex; justify-content: space-between; width: 100%;">
 <table>
 <tr>
     <td><strong>Languages</strong></td>
@@ -49,7 +49,7 @@
     <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
 </tr>
 </table>
-
+</div>
 
 ---
 
@@ -75,7 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=chartreuse-dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
   <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
 </div>
----
 
 ### 📈 Contribution Graph:
 
@@ -94,3 +93,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amanrajguptaa?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Amanrajguptaa&style=for-the-badge&color=81CC08" alt="profile views" />
 </p>
+
+### 🥇 Badges:
+
+[![An image of @amanrajguptaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanrajguptaa)](https://holopin.io/@amanrajguptaa)
