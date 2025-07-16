@@ -29,23 +29,27 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tools & Technologies:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Frontend</strong></td>
+</tr>
+<tr>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,java,c,python&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+</tr>
+<tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td><strong>Tools & Platforms</strong></td>
+</tr>
+<tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
+</tr>
+</table>
+
 
 ---
 
@@ -67,8 +71,10 @@
 
 ### 📊 GitHub Stats:
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajguptaa&layout=compact&theme=radical)
-
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanrajguptaa&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Aman Raj Gupta" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Amanrajguptaa&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
+</div>
 ---
 
 ### 📈 Contribution Graph:
@@ -79,3 +85,12 @@
 
 ### ⚡ Fun Fact:
 - I love coding like Ninja 🥷and debugging like Sherlock Holmes 🕵️
+
+
+<p align="center">
+  <a href="https://github.com/Amanrajguptaa?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Amanrajguptaa?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
+  <a href="https://github.com/Amanrajguptaa?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amanrajguptaa?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Amanrajguptaa&style=for-the-badge&color=81CC08" alt="profile views" />
+</p>
